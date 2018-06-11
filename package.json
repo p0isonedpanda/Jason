@@ -1,0 +1,15 @@
+{
+    "name": "Jason",
+    "version": "0.0.1",
+    "description": "Discord bot for Swinburne CompSci Discord Server",
+    "main": "main.js",
+    "author": "p0isonedpanda",
+    "license": "CC-BY-4.0",
+    "dependencies": {
+        "discord.js": "latest",
+        "fs": "0.0.1-security",
+        "path": "^0.12.7",
+        "cowsay": "latest",
+        "figlet": "latest"
+    }
+}
