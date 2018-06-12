@@ -12,7 +12,7 @@ It should be noted also that I run this bot in a Linux environment, and as such 
 Right now Jason has a very limited set of commands but these will expand as time goes on and the needs of the server change. So far we have:
 * `ping` - Check if Jason is still alive
 * `say [text]` - Make Jason say anything you want
-* `roll [num of dice]d[num of faces]` - Rolls some dice
+* `roll [num of dice]d[num of faces]` - Rolls some dice. Optional modifier at the end `+[num]` or `-[num]`
 * `figlet [text]` - It's figlet, I think you know what this is
 * `cowsay [text]` - Seriously you should know what this is
 
